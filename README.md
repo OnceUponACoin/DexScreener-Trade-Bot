@@ -1,7 +1,7 @@
 # **Dex Screener Trading Bot**
 
 ## **Overview**
-This project is a Solana-based automated trading bot that interacts with decentralized exchanges (DEXs) to monitor and execute trades based on predefined criteria. It fetches liquidity pool data, filters pools, and executes buy/sell transactions. Telegram notifications are also supported, but will most likely be removed.
+This project is a Solana-based automated trading bot that interacts with decentralized exchanges (DEXs) to monitor and execute trades based on predefined criteria. It fetches liquidity pool data, filters pools, and executes buy/sell transactions. Telegram notifications are also supported, but will most likely be removed. Also, it is important to note that this is a work in progress, and is also meant to be a PoC in regards to incorporating two technologies and making them work in tandem.
 
 ## **Features**
 -  **Real-time Liquidity Pool Scanning** via DexScreener API  
