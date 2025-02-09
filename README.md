@@ -43,3 +43,6 @@ This is an educational source code. The developers are not responsible for any f
 ## **License**
 This project is open-source under the MIT License.
 
+## **Donations**
+Making scripts and other useful tools takes time and energy. A little help goes a long way. If you do donate, know it will go towards bigger and better things.
+ETH: 0x0eF640DD0059E793D7121dB21B5158D2CCbD1e24
