@@ -1,4 +1,4 @@
-# Solana Sniping Bot
+# DexScreener Sniping Bot
 
 ##Update
 This is the final version. The bot does not have access to the trades DEX the DexScreener uses. If found, I will incorporate it later.
