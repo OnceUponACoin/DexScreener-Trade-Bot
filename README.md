@@ -1,5 +1,10 @@
 # DexScreener Sniping Bot
 
+## **Donations**
+Making scripts and other useful tools takes time and energy. A little help goes a long way. If you do donate, know it will go towards bigger and better things.
+
+ETH: 0x0eF640DD0059E793D7121dB21B5158D2CCbD1e24
+
 ##Update
 This is the final version. The bot does not have access to the trades DEX the DexScreener uses. If found, I will incorporate it later.
 
