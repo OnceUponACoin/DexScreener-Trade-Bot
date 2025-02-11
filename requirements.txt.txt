@@ -1,7 +1,0 @@
-requests
-configparser
-logging
-base58
-solana
-solders
-spl-token

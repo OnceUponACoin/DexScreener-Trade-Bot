@@ -1,0 +1,10 @@
+requests
+base58
+solana
+solders
+threading
+json
+logging
+time
+os
+configparser
